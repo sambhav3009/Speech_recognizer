@@ -1,4 +1,4 @@
-# Speech_recognizer# Speech Recognizer 🎤➡️📝
+# Speech Recognizer 🎤➡️📝
 
 This is a Python project that converts spoken audio into text. The program processes audio files by splitting them into manageable chunks and then uses speech recognition to transcribe the audio into written text. This can be beneficial for applications requiring transcription services or for users who need to convert audio content into a readable format.
 
